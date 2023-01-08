@@ -13,3 +13,8 @@
     - To get this session of this user use the route `/api/session/` with get
     - To delete a session (logout) you can use the route `/api/session` with delete
     - And to se all the metrics you can use the route `/api/metrics/
+
+In progress
+    - Add unit tests and e2e tests
+    - Add a front-end page to interact
+    - Add a swager 
